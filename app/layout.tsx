@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fucks or Sucks - Debate Voting",
-  description: "Vote on the Move vs Solidity debate - Swipe to show what fucks or sucks!",
+  title: "Counter Game",
+  description: "Increment or decrement your counter and level up!",
 };
 
 export default function RootLayout({
